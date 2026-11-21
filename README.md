@@ -66,3 +66,7 @@ Each script's `--help` lists its options (markets, sample sizes, output folder).
   is fetched in 5-year windows and rescaled onto the monthly series to get one scale per stock.
 - Hugging Face allows at most 10,000 files per folder, so US prices are split into
   `prices/` (symbols A-K) and `prices_1/` (L-Z).
+
+## License
+
+[GPL-3.0](LICENSE)
